@@ -13,7 +13,7 @@
         {{ HTML::style('/css/bootstrap.css') }}
         <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
         {{ HTML::style('/css/theme.css') }}
-        <!-- {{ HTML::style('/css/prettyPhoto.css') }} -->
+        {{ HTML::style('/css/prettyPhoto.css') }}
         {{ HTML::style('/css/zocial.css') }}
         <!-- {{ HTML::style('/css/nerveSlider.css') }} -->
         @yield('stylesheet')
@@ -45,7 +45,7 @@
                                         <li class="has-submenu-no"><a href="{{{URL::to('/')}}}">Home</a></li>
                                         <li class="has-submenu-no"><a href="{{{URL::to('/about')}}}">About</a></li>
                                         <li class="has-submenu">
-                                            <a href="{{{ URL::to('/services/')}}}">Services </a>
+                                            <a class="dropdown-toggle disabled" href="{{{ URL::to('/services/')}}}">Services </a>
                                             <ul class="sub-menu">
                                                 <li><a href="{{{URL::to('services/businesssolution')}}}">Business Solutions</a></li>
                                                 <li><a href="{{{URL::to('services/softwaredevelopment')}}}">Software Development</a></li>
@@ -53,7 +53,7 @@
                                             </ul>
                                         </li>
                                         <li class="has-submenu">
-                                        <a href="{{{ URL::to('/works') }}}">Work </a>
+                                        <a href="{{{ URL::to('/works/') }}}">Work </a>
                                             <ul class="sub-menu">
                                             </ul>
                                         </li>

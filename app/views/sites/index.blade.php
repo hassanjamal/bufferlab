@@ -98,7 +98,7 @@
 </div>
 <div class="banner" id="banner-3">
     <!--welcome-->
-    <div class="welcome_index_small">Most <span class="hue_block white normal"_block white normal">programmers</span> spend the first 5 years of their career mastering complexity and the rest of their lives learning simplicity. </div>
+    <div class="welcome_index_small">Most <span class="hue_block white normal">programmers</span> spend the first 5 years of their career mastering complexity and the rest of their lives learning simplicity. </div>
     <div class="welcome_index" style="padding-top:20px;">We started in year 2007 working for accenture and now working independently..</div>
 </div>
 <div class="container">
@@ -148,9 +148,9 @@
         $(document).ready(function() {
             var image_array = new Array();
             image_array = [
-        {image: 'img/home_content_slider/halfrate.png', link_url: 'img/small/2.jpg', link_rel: 'prettyPhoto'},
-            {image: 'img/home_content_slider/companykart.png', link_url: 'img/small/2.jpg', link_rel: 'prettyPhoto'},
-            {image: 'img/home_content_slider/bluecrystal.png', link_url: 'img/small/2.jpg', link_rel: 'prettyPhoto'},
+            {image: 'img/home_content_slider/halfrate.png', link_url: '', link_rel: 'prettyPhoto'},
+            {image: 'img/home_content_slider/companykart.png', link_url: '', link_rel: 'prettyPhoto'},
+            {image: 'img/home_content_slider/bluecrystal.png', link_url: '', link_rel: 'prettyPhoto'},
             ];
         $('#slider1').content_slider({      
             map : image_array,              

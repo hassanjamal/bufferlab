@@ -206,7 +206,22 @@ h3 { font-size: 19px; line-height:28px; }
 h4 { font-size: 18px; line-height:28px; margin-bottom:10px; font-weight:300 }
 h5 { font-size: 17px; line-height:27px; margin-bottom:10px; font-weight:300 }
 h6 { font-size: 16px; line-height:24px; margin-bottom:10px; font-weight:300 }
-h1.intro {  color:#89949b; line-height:40px; font-weight:300; margin-bottom:60px; text-align:left; }
+h1.intro {
+    font-family:'Raleway', Helvetica, Arial, sans-serif;
+    color:#89949b;
+    line-height:40px;
+    font-weight:100;
+    margin-bottom:30px;
+    text-align:left;
+}
+h2.intro {
+    font-family:'Raleway', Helvetica, Arial, sans-serif;
+    color:#89949b;
+    line-height:32px;
+    font-weight:300;
+    margin-bottom:60px;
+    text-align:left;
+}
 
 
 /**** DROP CAPS ****/
@@ -428,7 +443,7 @@ text-align:center; }
     margin-top:30px;
     margin-bottom:30px;
     width:100%;
-    background:#555;
+    background:#40434c;
 }
 #banner-3{
     margin-top:30px;
@@ -461,7 +476,7 @@ text-align:center; }
 .tile p {
     margin: 10px 10px 22px 0;
     font-weight:400;
-    color:#555;
+    color:#40434c;
     font-size:14px;
     line-height:150%;
     text-align:center;
@@ -510,7 +525,7 @@ font-weight:700; }
 BIG BOTTOM STRIP
  *************************************************************/
 /* Coloured Strip */
-.strip {  background-color:#555   ; padding: 45px 0 40px; text-align:center; }
+.strip {  background-color:#40434c   ; padding: 45px 0 40px; text-align:center; }
 .strip h1 {
     letter-spacing:0.25em;
     color:#f4f4f4;
