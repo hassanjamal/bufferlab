@@ -1,6 +1,6 @@
 <?php
 
-class HomeController extends BaseController {
+class WorksController extends BaseController {
 
 	/*
 	|--------------------------------------------------------------------------
@@ -23,17 +23,6 @@ class HomeController extends BaseController {
     */
    public function getIndex()
    {
-       return View::make('sites.index');
+       return View::make('sites.works.index');
    } 
-
-   public function getAbout()
-   {
-       return View::make('sites.about');
-   }
-
-   public function getContact()
-   {
-       return View::make('sites.contact');
-   }
-
 }
