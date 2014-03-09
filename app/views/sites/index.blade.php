@@ -54,7 +54,7 @@
 </div>
 <div class="banner" id="banner-2">
     <!--welcome-->
-    <div class="welcome_index">We provide a wide array of software design and development services – from <span class="hue_block white normal">Web applications</span> to User interface design, Quality assurance and Digital Strategy</div>
+    <div class="welcome_index">We provide a wide array of software design and development services – from <span class="colour normal">Web applications</span> to User interface design, Quality assurance and Digital Strategy</div>
 </div>
 <div class="container">
     <div class="inner_content">
@@ -96,10 +96,10 @@
         <!--//info boxes-->
     </div>
 </div>
-<div class="banner" id="banner-3">
+<div class="banner" id="banner-2">
     <!--welcome-->
-    <div class="welcome_index_small">Most <span class="hue_block white normal">programmers</span> spend the first 5 years of their career mastering complexity and the rest of their lives learning simplicity. </div>
-    <div class="welcome_index" style="padding-top:20px;">We started in year 2007 working for accenture and now working independently..</div>
+    <div class="welcome_index_small">Most <span class="colour normal">programmers</span> spend the first 5 years of their career mastering complexity and the rest of their lives learning simplicity. </div>
+    <div class="welcome_index" style="padding-top:20px;">We started in year 2007 working for <span class="colour normal">accenture</span> and now working as <span class="hue_block white normal">BufferLab</span>..</div>
 </div>
 <div class="container">
     <div class="inner_content">

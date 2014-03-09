@@ -21,7 +21,8 @@
 body {
     margin:0; padding:0;
     font:15px/25px 'Raleway','Droid Sans',sans-serif;
-    color:#656565;
+    /* color:#656565; */
+    color:#40434c;
     font-weight:300;
     background: white;
     -webkit-backface-visibility:hidden;
@@ -525,7 +526,8 @@ font-weight:700; }
 BIG BOTTOM STRIP
  *************************************************************/
 /* Coloured Strip */
-.strip {  background-color:#40434c   ; padding: 45px 0 40px; text-align:center; }
+.strip {  background-color:#F4594F   ; padding: 45px 0 40px; text-align:center; }
+/* .strip {  background-color:#40434c   ; padding: 45px 0 40px; text-align:center; } */
 .strip h1 {
     letter-spacing:0.25em;
     color:#f4f4f4;
