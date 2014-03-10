@@ -29,7 +29,7 @@
 
     <body>
         <!--header-->
-        <div class="header">
+        <div class="header" id="main_header">
             <div id="slider_header">
                 <!--logo-->
                 <div class="container">

@@ -457,7 +457,7 @@ color:#ffa902;
 
 .tp-caption.thinheadline_dark {
 position:absolute;
-color:rgba(0,0,0,0.85);
+color:rgba(256,256,256,1.0);
 text-shadow:none;
 font-weight:300;
 font-size:30px;
@@ -589,7 +589,7 @@ font-size:60px;
 line-height:60px;
 font-weight:800;
 /* font-family:"Open Sans"; */
-color:rgb(102, 102, 102);
+color:rgb(64,67,76);
 text-decoration:none;
 background-color:transparent;
 text-shadow:none;
@@ -749,6 +749,16 @@ border-width:0px;
 border-color:rgb(34, 34, 34);
 border-style:none;
 }
+.tp-caption.floor {
+text-decoration:none;
+background-color:rgba(226, 71 , 61 , 1);
+width:4000px;
+height:150px;
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+
 
 .tp-caption.large_bold_white {
 font-size:58px;
