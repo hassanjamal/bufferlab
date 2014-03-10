@@ -26,11 +26,19 @@ class HomeController extends BaseController {
        return View::make('sites.index');
    } 
 
+   /**
+    * render about us page
+    * @return response 
+    */
    public function getAbout()
    {
        return View::make('sites.about');
    }
 
+   /**
+    * render contact us page
+    * @return response 
+    */
    public function getContact()
    {
        return View::make('sites.contact');
