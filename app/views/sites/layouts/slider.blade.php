@@ -9,7 +9,7 @@
 
 					<!-- LAYER NR. 1 -->
 					<div class="tp-caption customin skewtoleft"
-						data-x="877"
+						data-x="77"
 						data-y="54"
 						data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 						data-speed="600"
@@ -17,13 +17,13 @@
 						data-easing="Back.easeOut"
 						data-endspeed="400"
 						data-endeasing="Back.easeIn"
-						style="z-index: 2"><img src="images/cloud2.png" alt="">
+						style="z-index: 2"><img src="/img/main_slider/cloud2.png" alt="">
 					</div>
 
 					<!-- LAYER NR. 2 -->
 					<div class="tp-caption customin skewtoleft"
 						data-x="84"
-						data-y="80"
+						data-y="350"
 						data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 						data-speed="600"
 						data-start="1300"
@@ -47,30 +47,30 @@
 					</div>
 
 					<!-- LAYER NR. 4 -->
-					<div class="tp-caption sfb ltl"
-						data-x="639"
-						data-y="346"
-						data-speed="600"
-						data-start="1200"
-						data-easing="Back.easeOut"
-						data-endspeed="400"
-						data-endeasing="Back.easeIn"
-						data-captionhidden="on"
-						style="z-index: 5"><img src="images/hill3.png" alt="">
-					</div>
+					<!-- <div class="tp&#45;caption sfb ltl" -->
+					<!-- 	data&#45;x="639" -->
+					<!-- 	data&#45;y="346" -->
+					<!-- 	data&#45;speed="600" -->
+					<!-- 	data&#45;start="1200" -->
+					<!-- 	data&#45;easing="Back.easeOut" -->
+					<!-- 	data&#45;endspeed="400" -->
+					<!-- 	data&#45;endeasing="Back.easeIn" -->
+					<!-- 	data&#45;captionhidden="on" -->
+					<!-- 	style="z&#45;index: 5"><img src="images/hill3.png" alt=""> -->
+					<!-- </div> -->
 
 					<!-- LAYER NR. 5 -->
-					<div class="tp-caption sfb ltl"
-						data-x="228"
-						data-y="360"
-						data-speed="600"
-						data-start="1100"
-						data-easing="Back.easeOut"
-						data-endspeed="400"
-						data-endeasing="Back.easeIn"
-						data-captionhidden="on"
-						style="z-index: 6"><img src="images/hill4.png" alt="">
-					</div>
+					<!-- <div class="tp&#45;caption sfb ltl" -->
+					<!-- 	data&#45;x="228" -->
+					<!-- 	data&#45;y="360" -->
+					<!-- 	data&#45;speed="600" -->
+					<!-- 	data&#45;start="1100" -->
+					<!-- 	data&#45;easing="Back.easeOut" -->
+					<!-- 	data&#45;endspeed="400" -->
+					<!-- 	data&#45;endeasing="Back.easeIn" -->
+					<!-- 	data&#45;captionhidden="on" -->
+					<!-- 	style="z&#45;index: 6"><img src="images/hill4.png" alt=""> -->
+					<!-- </div> -->
 
 					<!-- LAYER NR. 6 -->
 					<div class="tp-caption grassfloor lfb ltb"
@@ -99,119 +99,119 @@
 					</div>
 
 					<!-- LAYER NR. 8 -->
-					<div class="tp-caption sfb ltl"
-						data-x="496"
-						data-y="367"
-						data-speed="600"
-						data-start="900"
-						data-easing="Back.easeOut"
-						data-endspeed="400"
-						data-endeasing="Back.easeIn"
-						data-captionhidden="on"
-						style="z-index: 9"><img src="images/hill1.png" alt="">
-					</div>
+					<!-- <div class="tp&#45;caption sfb ltl" -->
+					<!-- 	data&#45;x="496" -->
+					<!-- 	data&#45;y="367" -->
+					<!-- 	data&#45;speed="600" -->
+					<!-- 	data&#45;start="900" -->
+					<!-- 	data&#45;easing="Back.easeOut" -->
+					<!-- 	data&#45;endspeed="400" -->
+					<!-- 	data&#45;endeasing="Back.easeIn" -->
+					<!-- 	data&#45;captionhidden="on" -->
+					<!-- 	style="z&#45;index: 9"><img src="images/hill1.png" alt=""> -->
+					<!-- </div> -->
 
-					LAYER NR. 9
-					<div class="tp-caption sfb ltl"
-						data-x="918"
-						data-y="379"
-						data-speed="600"
-						data-start="1000"
-						data-easing="Back.easeOut"
-						data-endspeed="400"
-						data-endeasing="Back.easeIn"
-						data-captionhidden="on"
-						style="z-index: 10"><img src="images/hill2.png" alt="">
-					</div>
+					<!-- LAYER NR. 9 -->
+					<!-- <div class="tp&#45;caption sfb ltl" -->
+					<!-- 	data&#45;x="918" -->
+					<!-- 	data&#45;y="379" -->
+					<!-- 	data&#45;speed="600" -->
+					<!-- 	data&#45;start="1000" -->
+					<!-- 	data&#45;easing="Back.easeOut" -->
+					<!-- 	data&#45;endspeed="400" -->
+					<!-- 	data&#45;endeasing="Back.easeIn" -->
+					<!-- 	data&#45;captionhidden="on" -->
+					<!-- 	style="z&#45;index: 10"><img src="images/hill2.png" alt=""> -->
+					<!-- </div> -->
 
 					<!-- LAYER NR. 10 -->
-					<div class="tp-caption lfb skewtoleft"
-						data-x="122"
-						data-y="133"
-						data-speed="2000"
-						data-start="1300"
-						data-easing="Power4.easeOut"
-						data-endspeed="400"
-						data-endeasing="Power1.easeIn"
-						style="z-index: 11"><img src="images/guy1.png" alt="">
-					</div>
+					<!-- <div class="tp&#45;caption lfb skewtoleft" -->
+					<!-- 	data&#45;x="122" -->
+					<!-- 	data&#45;y="133" -->
+					<!-- 	data&#45;speed="2000" -->
+					<!-- 	data&#45;start="1300" -->
+					<!-- 	data&#45;easing="Power4.easeOut" -->
+					<!-- 	data&#45;endspeed="400" -->
+					<!-- 	data&#45;endeasing="Power1.easeIn" -->
+					<!-- 	style="z&#45;index: 11"><img src="images/guy1.png" alt=""> -->
+					<!-- </div> -->
 
 					<!-- LAYER NR. 11 -->
-					<div class="tp-caption lfb skewtoleft"
-						data-x="318"
-						data-y="91"
-						data-speed="2000"
-						data-start="1400"
-						data-easing="Power4.easeOut"
-						data-endspeed="400"
-						data-endeasing="Power1.easeIn"
-						style="z-index: 12"><img src="images/guy2.png" alt="">
-					</div>
+					<!-- <div class="tp&#45;caption lfb skewtoleft" -->
+					<!-- 	data&#45;x="318" -->
+					<!-- 	data&#45;y="91" -->
+					<!-- 	data&#45;speed="2000" -->
+					<!-- 	data&#45;start="1400" -->
+					<!-- 	data&#45;easing="Power4.easeOut" -->
+					<!-- 	data&#45;endspeed="400" -->
+					<!-- 	data&#45;endeasing="Power1.easeIn" -->
+					<!-- 	style="z&#45;index: 12"><img src="images/guy2.png" alt=""> -->
+					<!-- </div> -->
 
 					<!-- LAYER NR. 12 -->
-					<div class="tp-caption customin ltl"
-						data-x="769"
-						data-y="177"
-						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-						data-speed="1000"
-						data-start="2000"
-						data-easing="Back.easeInOut"
-						data-endspeed="400"
-						data-endeasing="Back.easeIn"
-						style="z-index: 13"><img src="images/icon_photo.png" alt="">
-					</div>
+					<!-- <div class="tp&#45;caption customin ltl" -->
+					<!-- 	data&#45;x="769" -->
+					<!-- 	data&#45;y="177" -->
+					<!-- 	data&#45;customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" -->
+					<!-- 	data&#45;speed="1000" -->
+					<!-- 	data&#45;start="2000" -->
+					<!-- 	data&#45;easing="Back.easeInOut" -->
+					<!-- 	data&#45;endspeed="400" -->
+					<!-- 	data&#45;endeasing="Back.easeIn" -->
+					<!-- 	style="z&#45;index: 13"><img src="images/icon_photo.png" alt=""> -->
+					<!-- </div> -->
 
 					<!-- LAYER NR. 13 -->
-					<div class="tp-caption large_bold_white customin ltl"
-						data-x="596"
-						data-y="101"
-						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-						data-speed="1000"
-						data-start="1850"
-						data-easing="Back.easeInOut"
-						data-endspeed="400"
-						data-endeasing="Back.easeIn"
-						style="z-index: 14">Design
-					</div>
+					<!-- <div class="tp&#45;caption large_bold_white customin ltl" -->
+					<!-- 	data&#45;x="596" -->
+					<!-- 	data&#45;y="101" -->
+					<!-- 	data&#45;customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" -->
+					<!-- 	data&#45;speed="1000" -->
+					<!-- 	data&#45;start="1850" -->
+					<!-- 	data&#45;easing="Back.easeInOut" -->
+					<!-- 	data&#45;endspeed="400" -->
+					<!-- 	data&#45;endeasing="Back.easeIn" -->
+					<!-- 	style="z&#45;index: 14">Design -->
+					<!-- </div> -->
 
 					<!-- LAYER NR. 14 -->
-					<div class="tp-caption medium_light_white customin ltl"
-						data-x="813"
-						data-y="124"
-						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-						data-speed="1000"
-						data-start="1900"
-						data-easing="Back.easeInOut"
-						data-endspeed="400"
-						data-endeasing="Back.easeIn"
-						style="z-index: 15">&
-					</div>
+					<!-- <div class="tp&#45;caption medium_light_white customin ltl" -->
+					<!-- 	data&#45;x="813" -->
+					<!-- 	data&#45;y="124" -->
+					<!-- 	data&#45;customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" -->
+					<!-- 	data&#45;speed="1000" -->
+					<!-- 	data&#45;start="1900" -->
+					<!-- 	data&#45;easing="Back.easeInOut" -->
+					<!-- 	data&#45;endspeed="400" -->
+					<!-- 	data&#45;endeasing="Back.easeIn" -->
+					<!-- 	style="z&#45;index: 15">&#38; -->
+					<!-- </div> -->
 
 					<!-- LAYER NR. 15 -->
-					<div class="tp-caption large_bold_white customin ltl"
-						data-x="845"
-						data-y="102"
-						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-						data-speed="1000"
-						data-start="1950"
-						data-easing="Back.easeInOut"
-						data-endspeed="400"
-						data-endeasing="Back.easeIn"
-						style="z-index: 16">Create
-					</div>
+					<!-- <div class="tp&#45;caption large_bold_white customin ltl" -->
+					<!-- 	data&#45;x="845" -->
+					<!-- 	data&#45;y="102" -->
+					<!-- 	data&#45;customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" -->
+					<!-- 	data&#45;speed="1000" -->
+					<!-- 	data&#45;start="1950" -->
+					<!-- 	data&#45;easing="Back.easeInOut" -->
+					<!-- 	data&#45;endspeed="400" -->
+					<!-- 	data&#45;endeasing="Back.easeIn" -->
+					<!-- 	style="z&#45;index: 16">Create -->
+					<!-- </div> -->
 
 					<!-- LAYER NR. 16 -->
-					<div class="tp-caption mediumlarge_light_white customin ltl"
-						data-x="652"
-						data-y="282"
-						data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-						data-speed="1000"
-						data-start="2050"
-						data-easing="Back.easeInOut"
-						data-endspeed="400"
-						data-endeasing="Back.easeIn"
-						style="z-index: 17">With Total Layer Control
-					</div>
+					<!-- <div class="tp&#45;caption mediumlarge_light_white customin ltl" -->
+					<!-- 	data&#45;x="652" -->
+					<!-- 	data&#45;y="282" -->
+					<!-- 	data&#45;customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" -->
+					<!-- 	data&#45;speed="1000" -->
+					<!-- 	data&#45;start="2050" -->
+					<!-- 	data&#45;easing="Back.easeInOut" -->
+					<!-- 	data&#45;endspeed="400" -->
+					<!-- 	data&#45;endeasing="Back.easeIn" -->
+					<!-- 	style="z&#45;index: 17">With Total Layer Control -->
+					<!-- </div> -->
 				</li>
 				<!-- SLIDE  -->
 				<li data-transition="slideleft" data-slotamount="7" data-masterspeed="2000" >

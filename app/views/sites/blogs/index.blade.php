@@ -6,7 +6,7 @@
 <!--  more stylesheet to be added here -->
 @stop
 @section('body_content')
-<h1>Hello BufferLab</h1>
+<h1>WE'RE SO BUSY BUILDINg WEBSITEs FOR OTHERS THAT WE JUST CAN'T GET OURS UP AND RUNNING </h1>
 
 @stop
 @section('strip')
