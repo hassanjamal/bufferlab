@@ -5,135 +5,7 @@
             <li data-transition="slidedown" data-slotamount="7" data-masterspeed="1000" >
                 <!-- MAIN IMAGE -->
                 <img src="/img/main_slider/transparent.png" style='background-color:#b2c4cc' alt=""  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
-                <!-- LAYERS -->
-
-                <!-- LAYER NR. 1 -->
-                <div class="tp-caption customin skewtoleft"
-                    data-x="600"
-                    data-y="20"
-                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                    data-speed="600"
-                    data-start="1500"
-                    data-easing="Back.easeOut"
-                    data-endspeed="400"
-                    data-endeasing="Back.easeIn"
-                    style="z-index: 2"><img src="/img/main_slider/dev.png" alt="">
-                </div>
-
-                <div class="tp-caption thinheadline_dark  customin ltl"
-                    data-x="680"
-                    data-y="35"
-                    data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-                    data-speed="1000"
-                    data-start="1500"
-                    data-easing="Back.easeInOut"
-                    data-endspeed="400"
-                    data-endeasing="Back.easeIn"
-                    style="z-index: 14">php { Laravel }
-                </div>
-
-                <!-- LAYER NR. 2 -->
-                <div class="tp-caption customin skewtoleft"
-                    data-x="600"
-                    data-y="100"
-                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                    data-speed="600"
-                    data-start="1700"
-                    data-easing="Back.easeOut"
-                    data-endspeed="400"
-                    data-endeasing="Back.easeIn"
-                    style="z-index: 3"><img src="/img/main_slider/dev.png" alt="">
-                </div>
-
-                <div class="tp-caption thinheadline_dark  customin ltl"
-                    data-x="680"
-                    data-y="115"
-                    data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-                    data-speed="1000"
-                    data-start="1700"
-                    data-easing="Back.easeInOut"
-                    data-endspeed="400"
-                    data-endeasing="Back.easeIn"
-                    style="z-index: 14">Ruby On Rails
-                </div>
-
-                <!-- LAYER NR. 3 -->
-                <div class="tp-caption customin skewtoleft"
-                    data-x="600"
-                    data-y="180"
-                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                    data-speed="600"
-                    data-start="1900"
-                    data-easing="Back.easeOut"
-                    data-endspeed="400"
-                    data-endeasing="Back.easeIn"
-                    style="z-index: 4"><img src="/img/main_slider/dev.png" alt="">
-                </div>
-
-                <div class="tp-caption thinheadline_dark  customin ltl"
-                    data-x="680"
-                    data-y="195"
-                    data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-                    data-speed="1000"
-                    data-start="1900"
-                    data-easing="Back.easeInOut"
-                    data-endspeed="400"
-                    data-endeasing="Back.easeIn"
-                    style="z-index: 14">Angular Js
-                </div>
-
-
-                <div class="tp-caption customin skewtoleft"
-                    data-x="600"
-                    data-y="260"
-                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                    data-speed="600"
-                    data-start="2100"
-                    data-easing="Back.easeOut"
-                    data-endspeed="400"
-                    data-endeasing="Back.easeIn"
-                    style="z-index: 4"><img src="/img/main_slider/dev.png" alt="">
-                </div>
-
-                <div class="tp-caption thinheadline_dark  customin ltl"
-                    data-x="680"
-                    data-y="275"
-                    data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-                    data-speed="1000"
-                    data-start="2100"
-                    data-easing="Back.easeInOut"
-                    data-endspeed="400"
-                    data-endeasing="Back.easeIn"
-                    style="z-index: 14">HTML5 / CSS3 
-                </div>
-
-                <!-- LAYER NR. 4 -->
-                <div class="tp-caption sfb ltl"
-                    data-x="639"
-                    data-y="400"
-                    data-speed="600"
-                    data-start="1200"
-                    data-easing="Back.easeOut"
-                    data-endspeed="400"
-                    data-endeasing="Back.easeIn"
-                    data-captionhidden="on"
-                    style="z-index: 5"><img src="images/hill3.png" alt="">
-                </div>
-
-                <!-- LAYER NR. 5 -->
-                <div class="tp-caption sfb ltl"
-                    data-x="228"
-                    data-y="420"
-                    data-speed="600"
-                    data-start="1100"
-                    data-easing="Back.easeOut"
-                    data-endspeed="400"
-                    data-endeasing="Back.easeIn"
-                    data-captionhidden="on"
-                    style="z-index: 6"><img src="images/hill4.png" alt="">
-                </div>
-
-                <!-- LAYER NR. 6 -->
+                <!-- LAYERS NO 1 -->
                 <div class="tp-caption floor lfb ltb"
                     data-x="center" data-hoffset="0"
                     data-y="bottom" data-voffset="50"
@@ -143,136 +15,183 @@
                     data-endspeed="600"
                     data-endeasing="Power4.easeIn"
                     data-captionhidden="on"
-                    style="z-index: 7">
+                    style="z-index: 10">
                 </div>
 
-                <!-- LAYER NR. 7 -->
+                <!--  -->
+                <!-- LAYER NR. 1 -->
+
+                <div class="tp-caption thinheadline_dark  customin ltl"
+                        data-x="475"
+                        data-y="35"
+                        data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+                        data-speed="1000"
+                        data-start="1750"
+                        data-easing="Back.easeInOut"
+                        data-endspeed="400"
+                        data-endeasing="Back.easeIn"
+                        style="z-index: 14">Welcome To Creative-Side Of WWW Lab 
+                    </div>
+
                 <div class="tp-caption sfb ltl"
-                    data-x="142"
-                    data-y="245"
+                    data-x="0"  
+                    data-y="100"
+                    data-speed="600"
+                    data-start="2600"
+                    data-easing="Back.easeOut"
+                    data-endspeed="800"
+                    data-endeasing="Back.easeIn"
+                    data-captionhidden="on"
+                    style="z-index: 1"><img src="/img/main_slider/clouds.png" alt="">
+                </div>
+
+                <div class="tp-caption sfb ltl"
+                    data-x="200"
+                    data-y="425"
+                    data-speed="600"
+                    data-start="500"
+                    data-easing="Back.easeOut"
+                    data-endspeed="800"
+                    data-endeasing="Back.easeIn"
+                    data-captionhidden="on"
+                    style="z-index: 5"><img src="/img/main_slider/bush-1.png" alt="">
+                </div>
+
+                <div class="tp-caption sfb ltl"
+                    data-x="800"
+                    data-y="425"
+                    data-speed="600"
+                    data-start="700"
+                    data-easing="Back.easeOut"
+                    data-endspeed="800"
+                    data-endeasing="Back.easeIn"
+                    data-captionhidden="on"
+                    style="z-index: 5"><img src="/img/main_slider/bush-2.png" alt="">
+                </div>
+
+
+
+                <div class="tp-caption sfb ltl"
+                    data-x="350"
+                    data-y="300"
                     data-speed="600"
                     data-start="800"
                     data-easing="Back.easeOut"
                     data-endspeed="400"
                     data-endeasing="Back.easeIn"
                     data-captionhidden="on"
-                    style="z-index: 8"><img src="/img/main_slider/guy-1.png" alt="">
+                    style="z-index: 2"><img src="/img/main_slider/tree-1.png" alt="">
                 </div>
 
-                <!-- LAYER NR. 8 -->
                 <div class="tp-caption sfb ltl"
-                    data-x="496"
-                    data-y="426"
-                    data-speed="600"
-                    data-start="900"
-                    data-easing="Back.easeOut"
-                    data-endspeed="400"
-                    data-endeasing="Back.easeIn"
-                    data-captionhidden="on"
-                    style="z-index: 9"><img src="images/hill1.png" alt="">
-                </div>
-
-                <!-- LAYER NR. 9 -->
-                <div class="tp-caption sfb ltl"
-                    data-x="918"
-                    data-y="437"
+                    data-x="850"
+                    data-y="250"
                     data-speed="600"
                     data-start="1000"
                     data-easing="Back.easeOut"
                     data-endspeed="400"
                     data-endeasing="Back.easeIn"
                     data-captionhidden="on"
-                    style="z-index: 10"><img src="images/hill2.png" alt="">
+                    style="z-index: 2"><img src="/img/main_slider/tree-1.png" alt="">
                 </div>
 
-                <!-- LAYER NR. 10 -->
-                <!-- <div class="tp&#45;caption lfb skewtoleft" -->
-                    <!-- 	data&#45;x="122" -->
-                    <!-- 	data&#45;y="133" -->
-                    <!-- 	data&#45;speed="2000" -->
-                    <!-- 	data&#45;start="1300" -->
-                    <!-- 	data&#45;easing="Power4.easeOut" -->
-                    <!-- 	data&#45;endspeed="400" -->
-                    <!-- 	data&#45;endeasing="Power1.easeIn" -->
-                    <!-- 	style="z&#45;index: 11"><img src="images/guy1.png" alt=""> -->
-                    <!-- </div> -->
+                <div class="tp-caption sfb ltl"
+                    data-x="25"
+                    data-y="210"
+                    data-speed="600"
+                    data-start="1000"
+                    data-easing="Back.easeOut"
+                    data-endspeed="400"
+                    data-endeasing="Back.easeIn"
+                    data-captionhidden="on"
+                    style="z-index: 6"><img src="/img/main_slider/building-5.png" alt="">
+                </div>
 
-                <!-- LAYER NR. 11 -->
-                <!-- <div class="tp&#45;caption lfb skewtoleft" -->
-                    <!-- 	data&#45;x="318" -->
-                    <!-- 	data&#45;y="91" -->
-                    <!-- 	data&#45;speed="2000" -->
-                    <!-- 	data&#45;start="1400" -->
-                    <!-- 	data&#45;easing="Power4.easeOut" -->
-                    <!-- 	data&#45;endspeed="400" -->
-                    <!-- 	data&#45;endeasing="Power1.easeIn" -->
-                    <!-- 	style="z&#45;index: 12"><img src="images/guy2.png" alt=""> -->
-                    <!-- </div> -->
+                <div class="tp-caption sfb ltl"
+                    data-x="100"
+                    data-y="180"
+                    data-speed="600"
+                    data-start="1200"
+                    data-easing="Back.easeOut"
+                    data-endspeed="400"
+                    data-endeasing="Back.easeIn"
+                    data-captionhidden="on"
+                    style="z-index: 6"><img src="/img/main_slider/building-1.png" alt="">
+                </div>
 
-                <!-- LAYER NR. 12 -->
-                <!-- <div class="tp&#45;caption customin ltl" -->
-                <!--     data&#45;x="769" -->
-                <!--     data&#45;y="177" -->
-                <!--     data&#45;customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" -->
-                <!--     data&#45;speed="1000" -->
-                <!--     data&#45;start="2000" -->
-                <!--     data&#45;easing="Back.easeInOut" -->
-                <!--     data&#45;endspeed="400" -->
-                <!--     data&#45;endeasing="Back.easeIn" -->
-                <!--     style="z&#45;index: 13"><img src="images/icon_photo.png" alt=""> -->
-                <!-- </div> -->
+                <div class="tp-caption sfb ltl"
+                    data-x="700"
+                    data-y="150"
+                    data-speed="600"
+                    data-start="1500"
+                    data-easing="Back.easeOut"
+                    data-endspeed="400"
+                    data-endeasing="Back.easeIn"
+                    data-captionhidden="on"
+                    style="z-index: 6"><img src="/img/main_slider/building-2.png" alt="">
+                </div>
 
-                <!-- LAYER NR. 13 -->
-                <!-- <div class="tp&#45;caption large_bold_white customin ltl" -->
-                    <!--     data&#45;x="596" -->
-                    <!--     data&#45;y="101" -->
-                    <!--     data&#45;customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" -->
-                    <!--     data&#45;speed="1000" -->
-                    <!--     data&#45;start="1850" -->
-                    <!--     data&#45;easing="Back.easeInOut" -->
-                    <!--     data&#45;endspeed="400" -->
-                    <!--     data&#45;endeasing="Back.easeIn" -->
-                    <!--     style="z&#45;index: 14">Design -->
-                    <!-- </div> -->
+                <div class="tp-caption sfb ltl"
+                    data-x="550"
+                    data-y="120"
+                    data-speed="600"
+                    data-start="1800"
+                    data-easing="Back.easeOut"
+                    data-endspeed="400"
+                    data-endeasing="Back.easeIn"
+                    data-captionhidden="on"
+                    style="z-index: 6"><img src="/img/main_slider/building-3.png" alt="">
+                </div>
 
-                <!-- LAYER NR. 14 -->
-                <!-- <div class="tp&#45;caption medium_light_white customin ltl" -->
-                    <!-- 	data&#45;x="813" -->
-                    <!-- 	data&#45;y="124" -->
-                    <!-- 	data&#45;customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" -->
-                    <!-- 	data&#45;speed="1000" -->
-                    <!-- 	data&#45;start="1900" -->
-                    <!-- 	data&#45;easing="Back.easeInOut" -->
-                    <!-- 	data&#45;endspeed="400" -->
-                    <!-- 	data&#45;endeasing="Back.easeIn" -->
-                    <!-- 	style="z&#45;index: 15">&#38; -->
-                    <!-- </div> -->
+                <div class="tp-caption sfb ltl"
+                    data-x="625"
+                    data-y="270"
+                    data-speed="600"
+                    data-start="2100"
+                    data-easing="Back.easeOut"
+                    data-endspeed="400"
+                    data-endeasing="Back.easeIn"
+                    data-captionhidden="on"
+                    style="z-index: 6"><img src="/img/main_slider/building-4.png" alt="">
+                </div>
 
-                <!-- LAYER NR. 15 -->
-                <!-- <div class="tp&#45;caption large_bold_white customin ltl" -->
-                    <!-- 	data&#45;x="845" -->
-                    <!-- 	data&#45;y="102" -->
-                    <!-- 	data&#45;customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" -->
-                    <!-- 	data&#45;speed="1000" -->
-                    <!-- 	data&#45;start="1950" -->
-                    <!-- 	data&#45;easing="Back.easeInOut" -->
-                    <!-- 	data&#45;endspeed="400" -->
-                    <!-- 	data&#45;endeasing="Back.easeIn" -->
-                    <!-- 	style="z&#45;index: 16">Create -->
-                    <!-- </div> -->
 
-                <!-- LAYER NR. 16 -->
-                <!-- <div class="tp&#45;caption mediumlarge_light_white customin ltl" -->
-                    <!-- 	data&#45;x="652" -->
-                    <!-- 	data&#45;y="282" -->
-                    <!-- 	data&#45;customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" -->
-                    <!-- 	data&#45;speed="1000" -->
-                    <!-- 	data&#45;start="2050" -->
-                    <!-- 	data&#45;easing="Back.easeInOut" -->
-                    <!-- 	data&#45;endspeed="400" -->
-                    <!-- 	data&#45;endeasing="Back.easeIn" -->
-                    <!-- 	style="z&#45;index: 17">With Total Layer Control -->
-                    <!-- </div> -->
+                <!-- LAYER NR. 7 -->
+                <div class="tp-caption sfb ltl"
+                    data-x="180"
+                    data-y="245"
+                    data-speed="600"
+                    data-start="2200"
+                    data-easing="Back.easeOut"
+                    data-endspeed="400"
+                    data-endeasing="Back.easeIn"
+                    data-captionhidden="on"
+                    style="z-index: 11"><img src="/img/main_slider/guy-1.png" alt="">
+                </div>
+
+                <div class="tp-caption boldwide_small_white  customin ltl"
+                    data-x="20"
+                    data-y="95"
+                    data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+                    data-speed="1000"
+                    data-start="1000"
+                    data-easing="Back.easeInOut"
+                    data-endspeed="400"
+                    data-endeasing="Back.easeIn"
+                    style="z-index: 14">Web Solution
+                </div>
+
+                <div class="tp-caption sfb ltl"
+                    data-x="90"
+                    data-y="20"
+                    data-speed="600"
+                    data-start="1200"
+                    data-easing="Back.easeOut"
+                    data-endspeed="400"
+                    data-endeasing="Back.easeIn"
+                    data-captionhidden="on"
+                    style="z-index: 10"><img src="/img/main_slider/dev.png" alt="">
+                </div>
             </li>
             <!-- SLIDE  -->
             <li data-transition="slideleft" data-slotamount="7" data-masterspeed="2000" >

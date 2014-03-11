@@ -457,9 +457,10 @@ color:#ffa902;
 
 .tp-caption.thinheadline_dark {
 position:absolute;
-color:rgba(256,256,256,1.0);
+/* color:rgba(256,256,256,1.0); */
+color:rgba(226,71,61,1.0);
 text-shadow:none;
-font-weight:300;
+font-weight:400;
 font-size:30px;
 line-height:30px;
 /* font-family:"Open Sans"; */
