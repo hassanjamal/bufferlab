@@ -502,8 +502,8 @@
                 data-start="4200"
                 data-easing="back.easeinout"
                 data-endspeed="300"
-                style="z-index: 12">He is wise and Happy now<br/>
-                What about you .<br/>
+                style="z-index: 12">More than 100 plus<br/>
+                Happy Clients<br/>
             </div>
 
             <div class="tp-caption boldwide_small_white  largeblackbg customin ltl"
