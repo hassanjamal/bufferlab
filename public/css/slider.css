@@ -420,7 +420,7 @@ color:#555;
 text-shadow:none;
 font-size:14px;
 line-height:22px;
-font-family:Arial;
+/* font-family:Arial; */
 margin:0px;
 border-width:0px;
 border-style:none;
@@ -471,7 +471,7 @@ background-color:transparent;
 position:absolute;
 color:rgba(0,0,0,0.85);
 text-shadow:none;
-font-weight:300;
+font-weight:400;
 font-size:16px;
 line-height:26px;
 /* font-family:"Open Sans"; */
@@ -802,10 +802,28 @@ border-color:rgb(255, 214, 88);
 border-style:none;
 }
 
+
+
 .tp-caption.mediumlarge_light_white_center {
 font-size:34px;
 line-height:40px;
 font-weight:300;
+/* font-family:"Open Sans"; */
+color:#ffffff;
+text-decoration:none;
+background-color:transparent;
+padding:0px 0px 0px 0px;
+text-align:center;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+
+.tp-caption.mediumlarge_light_white_center_custom {
+font-size:24px;
+line-height:40px;
+font-weight:400;
 /* font-family:"Open Sans"; */
 color:#ffffff;
 text-decoration:none;
