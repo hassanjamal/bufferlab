@@ -209,7 +209,7 @@
                 style="z-index: 11"><img src="/img/main_slider/guy-2.png" alt="">
             </div>
 
-            <div class="tp-caption mediumlarge_light_white_center_custom customin customout"
+            <div class="tp-caption thinheadline_dark customin customout"
                 data-x=0
                 data-y=100
                 data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
