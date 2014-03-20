@@ -13,7 +13,7 @@
         <link href='http://fonts.googleapis.com/css?family=Raleway:400,700,300,100' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
         <!-- stylesheets -->
-        {{ HTML::style('/css/bootstrap.css') }}
+        {{ HTML::style('/css/bootstrap.min.css') }}
         <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
         {{ HTML::style('/css/theme.css') }}
         {{ HTML::style('/css/prettyPhoto.css') }}
@@ -142,7 +142,7 @@
 
         <!-- scripts -->
         {{ HTML::script('/js/jquery.js') }}
-        {{ HTML::script('/js/bootstrap.min.js') }}
+        {{ HTML::script('/js/bootstrap.js') }}
         {{ HTML::script('/js/scripts.js') }}
         {{ HTML::script('/js/functions.js') }}
         <script>
