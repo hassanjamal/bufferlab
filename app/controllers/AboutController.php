@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\View;
 
-class HomeController extends BaseController
+class AboutController extends BaseController
 {
 
     /*
@@ -26,17 +26,13 @@ class HomeController extends BaseController
      */
     public function getIndex()
     {
-        return View::make('sites.index');
+        return View::make('sites.company.index');
     }
 
-    /**
-     * render contact us page
-     *
-     * @return response
-     */
-    public function getContact()
+    public function getWhyus()
     {
-        return View::make('sites.contact');
+        return View::make('sites.company.whyus');
     }
+
 
 }

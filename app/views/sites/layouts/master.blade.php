@@ -9,6 +9,7 @@
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
         <link rel="icon" href="/favicon.ico" type="image/x-icon">
         <!-- google fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Raleway:400,700,300,100' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
         <!-- stylesheets -->
@@ -34,7 +35,7 @@
                 <!--logo-->
                 <div class="container">
                     <div class="row">
-                        <div class="span12">
+                        <div class="col-md-12">
                             <div class="navbar">
                                 <!--logo-->			
                                 <div class="logo">
@@ -45,20 +46,23 @@
                                 <nav id="menu" class="menu">
                                     <ul>
                                         <li class="has-submenu-no"><a href="{{{URL::to('/')}}}">Home</a></li>
-                                        <li class="has-submenu-no"><a href="{{{URL::to('/about')}}}">About</a></li>
                                         <li class="has-submenu">
-                                            <a class="dropdown-toggle disabled" href="{{{ URL::to('/services/')}}}">Services </a>
+                                            <a class="dropdown-toggle " href="{{{ URL::to('/company/')}}}">Company</a>
+                                            <ul class="sub-menu">
+                                                <li><a href="{{{URL::to('company/')}}}">About Us</a></li>
+                                                <li><a href="{{{URL::to('company/whyus')}}}">Why BufferLab</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="has-submenu">
+                                            <a class="dropdown-toggle " href="{{{ URL::to('/services/')}}}">Services </a>
                                             <ul class="sub-menu">
                                                 <li><a href="{{{URL::to('services/businesssolution')}}}">Business Solutions</a></li>
                                                 <li><a href="{{{URL::to('services/softwaredevelopment')}}}">Software Development</a></li>
                                                 <li><a href="{{{URL::to('services/userinterface')}}}">User Interface</a></li>
                                             </ul>
                                         </li>
-                                        <li class="has-submenu">
-                                        <a href="{{{ URL::to('/works/') }}}">Work </a>
-                                            <ul class="sub-menu">
-                                            </ul>
-                                        </li>
+                                        <li class="has-submenu-no"><a href="{{{ URL::to('/works/') }}}">Works</a></li>
+                                        
                                         <li class="has-submenu-no"><a href="{{{ URL::to('/blogs/') }}}">Blog</a></li>
                                         <li class="has-submenu-no"><a href="{{{ URL::to('/contact') }}}">Contact</a></li>
                                     </ul>
@@ -101,17 +105,17 @@
             <div id="footer_work">
                 <div class="container">
                     <div class="row">
-                        <div class="span4">
+                        <div class="col-md-4">
                             <div class="copyright">
                                 BufferLab &copy; {{ date('Y')  }} 
                             </div>
                         </div>
-                        <div class="span4">
+                        <div class="col-md-4">
                             <div class="copyright">
                                 BufferLab &copy; {{ date('Y')  }} 
                             </div>
                         </div>
-                        <div class="span4">
+                        <div class="col-md-4">
                             <div class="copyright">
                                 BufferLab &copy; {{ date('Y')  }} 
                             </div>
@@ -119,17 +123,17 @@
                     </div>
                 </div>
             </div>
-            <div id="footer_company">
-                <div class="container">
-                    <div class="row">
-                        <div class="span12">
-                            <div class="copyright">
-                                BufferLab &copy; {{ date('Y') }} 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <!-- <div id="footer_company"> -->
+            <!--     <div class="container"> -->
+            <!--         <div class="row"> -->
+            <!--             <div class="span12"> -->
+            <!--                 <div class="copyright"> -->
+            <!--                     BufferLab &#38;copy; {{ date('Y') }}  -->
+            <!--                 </div> -->
+            <!--             </div> -->
+            <!--         </div> -->
+            <!--     </div> -->
+            <!-- </div> -->
 
             <!-- up to top -->
             <a href="{{{ URL::to('/') }}}"><i class="go-top hidden-phone hidden-tablet fa fa-angle-double-up"></i></a>

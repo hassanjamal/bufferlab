@@ -11,6 +11,9 @@
 |
  */
 
+Route::group(array('prefix'=>'company'), function(){
+    Route::controller('/', 'AboutController');
+});
 /**
  *  
  */

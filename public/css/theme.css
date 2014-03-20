@@ -20,7 +20,7 @@
 /*-----------------------------------------------------------------------------------*/
 body {
     margin:0; padding:0;
-    font:15px/25px 'Raleway','Droid Sans',sans-serif;
+    font:15px/25px 'Open Sans','Droid Sans',sans-serif;
     /* color:#656565; */
     color:#40434c;
     font-weight:300;
@@ -195,12 +195,12 @@ img { vertical-align:top; ms-interpolation-mode:bicubic; opacity:1.0;}
 
 /**** TYPOGRAPHY ****/
 h1,h2, h3{
-    font-family: 'Shadows Into Light','Raleway', Helvetica, Arial, sans-serif;
+    font-family: 'Raleway','Open Sans', Helvetica, Arial, sans-serif;
     font-weight:300;
     letter-spacing:0.25px;
 color:#4b5b66;}
 h1.title {  font-size:60px; line-height:70px; font-weight:300; margin-bottom:25px; text-align:left;}
-h2.title {  font-size:60px; line-height:65px; font-weight:300; margin-bottom:30px; text-align:left;}
+h2.title {  font-size:40px; line-height:55px; font-weight:300; margin-bottom:30px; text-align:left;}
 h1 { font-size: 28px; line-height:35px; }
 h2 { font-size: 21px;  line-height:30px; }
 h3 { font-size: 19px; line-height:28px; }
@@ -208,7 +208,7 @@ h4 { font-size: 18px; line-height:28px; margin-bottom:10px; font-weight:300 }
 h5 { font-size: 17px; line-height:27px; margin-bottom:10px; font-weight:300 }
 h6 { font-size: 16px; line-height:24px; margin-bottom:10px; font-weight:300 }
 h1.intro {
-    font-family:'Raleway', Helvetica, Arial, sans-serif;
+    font-family:'Open Sans', Helvetica, Arial, sans-serif;
     color:#89949b;
     line-height:40px;
     font-weight:100;
@@ -216,7 +216,7 @@ h1.intro {
     text-align:left;
 }
 h2.intro {
-    font-family:'Raleway', Helvetica, Arial, sans-serif;
+    font-family:'Open Sans', Helvetica, Arial, sans-serif;
     color:#89949b;
     line-height:32px;
     font-weight:300;
@@ -305,18 +305,18 @@ h2.intro {
 .menu ul ul {
     display: none;
     position: absolute;
-    top:60%;
+    /* top:60%; */
     min-width: 160px;
     z-index:2000;
 }
 .menu ul li:hover > ul { display: block; z-index:2000; }
 .menu ul ul > li { position: relative; }
 .menu ul ul > li a {
-    font-size:13px;
+    font-size:15px;
     padding: 5px 15px 5px 10px;
     height: auto;
-    font-weight:400;
-    color: #eee;
+    font-weight:300;
+    color: #fff;
     background-color:#545864;
     text-transform:none;
     -webkit-transition: background-color 0.2s ease-out;
@@ -327,8 +327,8 @@ h2.intro {
 }
 .menu ul ul > li a:hover {
     background-color: #e2473d;
-    /* background-color: #757b8b; */
-color: #fff; }
+    color: #eee;
+}
 
 .menu ul li li:first-child:after {
     bottom: 100%;
@@ -421,7 +421,7 @@ color: #fff; }
     padding:75px 0 0px;
     font-weight:100;
     margin:0 auto;
-    color:#fff;
+    color:#eee;
     text-align:center;
 }
 .get_quote_footer{
@@ -439,21 +439,22 @@ color: #fff; }
     margin-bottom:30px;
     width:100%;
     background:#e2473d;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
 text-align:center; }
 #banner-1 {
     /* margin-top:30px; */
     margin-bottom:30px;
     width:100%;
-    background:#e2473d;
+    background:#40434c;
 text-align:center; }
 #banner-2{
-    /* margin-top:30px; */
+    margin-top:30px;
     margin-bottom:30px;
     width:100%;
     background:#40434c;
 }
 #banner-3{
-    /* margin-top:30px; */
+    margin-top:30px;
     margin-bottom:30px;
     width:100%;
     background:#e2473d;
@@ -497,9 +498,10 @@ text-align:center; }
 .tile-title {
     color:#F4594F;
     letter-spacing: 0.05em;
-    font-size: 32px;
+    font-size: 28px;
     margin: 0;
-font-weight:700; }
+    /* font-weight:400;  */
+}
 .tile-title:hover{
     /* color:#555; */
 }
