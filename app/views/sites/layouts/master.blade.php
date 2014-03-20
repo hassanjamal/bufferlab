@@ -87,13 +87,13 @@
                     Let's work together...
                 </div>
                 <div class="pad25"></div>
-                <a href="" class="btn big-button "> <i class="icon-envelope icon-space"></i>contact us today</a>
+                <a href="{{{ URL::to('/contact') }}}" class="btn big-button "> <i class="icon-envelope icon-space"></i>contact us today</a>
                 @show
 
                 <div class="pad25"></div>
                 <div class="follow_us">
-                    <a href="" class="zocial twitter"></a>
-                    <a href="" class="zocial facebook"></a>
+                    <a href="https://twitter.com/BufferLab" class="zocial twitter"></a>
+                    <a href="https://www.facebook.com/bufferlab" class="zocial facebook"></a>
                     <a href="" class="zocial linkedin"></a>
                     <a href="" class="zocial googleplus"></a>
                 </div>
