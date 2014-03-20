@@ -727,12 +727,17 @@ BIG BOTTOM STRIP
 /*	05: CONTACT PAGE
 /*-----------------------------------------------------------------------------------*/
 #map {margin:0 0 15px 0; height:420px; }
-.contact_form { padding-top:10px; }
-.contact_form textarea { min-height:150px;}
+#contact_form {
+    padding-top:10px;
+    padding-left:0px;
+}
+#contact_form textarea {
+    min-height:200px;
+}
 .form_info {
     color: #666;
     text-transform:uppercase;
-    font-weight:500;
+    font-weight:400;
     font-size:13px;
     letter-spacing:2px;
     margin-bottom:3px;
@@ -748,7 +753,8 @@ BIG BOTTOM STRIP
     -moz-box-shadow: none;
     box-shadow: none;
     border:0px none;
-    height:30px;
+    height:50px;
+    margin-bottom:20px;
 }
 #ajax-contact-form  .btn { color:#fff!important; height:48px;}
 .notification_error {

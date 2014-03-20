@@ -157,6 +157,7 @@
 
         </script>
         @yield('javaScript')
+        @yield('customscripts')
     </body>
 </html>
 

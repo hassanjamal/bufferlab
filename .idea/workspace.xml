@@ -31,10 +31,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="business_solution.blade.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="business_solution.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/sites/services/business_solution.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1148">
+            <state line="8" column="22" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1148">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.blade.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/sites/contact.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="0" selection-start="624" selection-end="624" vertical-scroll-proportion="0.22702703" vertical-offset="308" max-vertical-offset="1708">
               <folding />
             </state>
           </provider>
@@ -62,6 +71,7 @@
         <option value="$PROJECT_DIR$/app/views/sites/layouts/slider.blade.php" />
         <option value="$PROJECT_DIR$/app/views/sites/about.blade.php" />
         <option value="$PROJECT_DIR$/app/views/sites/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/sites/contact.blade.php" />
       </list>
     </option>
   </component>
@@ -301,13 +311,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="28" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="81" max-vertical-offset="1512">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/sites/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="28" selection-start="730" selection-end="731" vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="6858">
@@ -588,7 +591,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/sites/services/business_solution.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1148">
+        <state line="8" column="22" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1148">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sites/contact.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="624" selection-end="624" vertical-scroll-proportion="0.22702703" vertical-offset="308" max-vertical-offset="1708">
           <folding />
         </state>
       </provider>

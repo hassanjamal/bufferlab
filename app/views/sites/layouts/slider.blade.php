@@ -26,12 +26,12 @@
          data-x="475"
          data-y="35"
          data-customin="x:0;y:0;z:0;rotationX:0;rotationY:90;rotationZ:0;scaleX:1.2;scaleY:1.2;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-         data-speed="600"
+         data-speed="1600"
          data-start="4750"
          data-easing="Back.easeInOut"
          data-endspeed="400"
          data-endeasing="Back.easeIn"
-         style="z-index: 14">Welcome To Creative-Side Of WWW Lab
+         style="z-index: 14">Welcome to creative-side of our WWW lab
     </div>
 
     <div class="tp-caption sfb ltl"
@@ -222,7 +222,7 @@
          style="z-index: 12 ; color:darkgrey">I need a web site<br/>
         which should be integrated with my web apps<br/>
     </div>
-    <div class="tp-caption mediumlarge_light_white_center customin ltl "
+    <div class="tp-caption thinheadline_dark customin ltl "
          data-x=0
          data-y=200
          data-customin="x:0;y:0;z:0;rotationx:90;rotationy:0;rotationz:0;scalex:1;scaley:1;skewx:0;skewy:0;opacity:0;transformperspective:200;transformorigin:50% 0%;"
@@ -231,7 +231,7 @@
          data-start="7000"
          data-easing="back.easeinout"
          data-endspeed="300"
-         style="z-index: 13 ; color:red ; text-align=center">YES !! I also need mobile application<br/>
+         style="z-index: 13 ; color:red ">YES !! I also need mobile application
     </div>
 
     <div class="tp-caption sfb ltl"
@@ -265,7 +265,7 @@
          data-start="1500"
          data-easing="back.easeout"
          data-endspeed="600"
-         data-end="8500"
+         data-end="9500"
          data-endeasing="power4.easein"
          style="z-index: 22"><img src="/img/main_slider/dev-2.png" alt="">
     </div>
@@ -279,7 +279,7 @@
          data-start="1500"
          data-easing="back.easeout"
          data-endspeed="600"
-         data-end="8500"
+         data-end="9500"
          data-endeasing="power4.easein"
          style="z-index: 22">we develop and design great software
     </div>
@@ -292,7 +292,7 @@
          data-speed="600"
          data-start="3000"
          data-easing="back.easeout"
-         data-end="8000"
+         data-end="9000"
          data-endspeed="600"
          data-endeasing="power4.easein"
          style="z-index: 23"><img src="/img/main_slider/macbook.png" alt="">
@@ -307,7 +307,7 @@
          data-start="3000"
          data-easing="back.easeout"
          data-endspeed="600"
-         data-end="8000"
+         data-end="9000"
          data-endeasing="power4.easein"
          style="z-index: 23">web application and web design
     </div>
@@ -320,7 +320,7 @@
          data-speed="600"
          data-start="4500"
          data-easing="back.easeout"
-         data-end="7500"
+         data-end="8500"
          data-endspeed="600"
          data-endeasing="power4.easein"
          style="z-index: 24"><img src="/img/main_slider/tablet.png" alt="">
@@ -335,7 +335,7 @@
          data-start="4500"
          data-easing="back.easeout"
          data-endspeed="600"
-         data-end="7500"
+         data-end="8500"
          data-endeasing="power4.easein"
          style="z-index: 24">mobile application
     </div>
@@ -367,7 +367,7 @@
          data-speed="600"
          data-start="500"
          data-easing="back.easeout"
-         data-end="4000"
+         data-end="6000"
          data-endspeed="300"
          style="z-index: 11"><img src="/img/main_slider/guy-3.png" alt="">
     </div>
@@ -380,9 +380,9 @@
          data-speed="1300"
          data-start="500"
          data-easing="back.easeinout"
-         data-end="4000"
+         data-end="6000"
          data-endspeed="300"
-         style="z-index: 12">Thanks to BufferLab<br/>
+         style="z-index: 12 ; color:white">Thanks to BufferLab<br/>
         Now I can run my business smoothly<br/>
     </div>
 
@@ -517,7 +517,7 @@
          data-easing="Back.easeInOut"
          data-endspeed="400"
          data-endeasing="Back.easeIn"
-         style="z-index: 14">CALL US NOW
+         style="z-index: 14"><a href="{{{ URL::to('/contact') }}}">CALL US NOW</a>
     </div>
 
     <div class="tp-caption floor lfr ltl"
