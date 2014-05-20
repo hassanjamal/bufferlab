@@ -34,8 +34,7 @@
             <div id="slider_header">
                 <!--logo-->
                 <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
+                        <div class="col-sm-12">
                             <div class="navbar">
                                 <!--logo-->			
                                 <div class="logo">
@@ -68,7 +67,6 @@
                                     </ul>
                                 </div>
                             </div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -105,17 +103,17 @@
             <div id="footer_work">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-4">
+                        <div class="col-sm-4">
                             <div class="copyright">
                                 BufferLab &copy; {{ date('Y')  }} 
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-sm-4">
                             <div class="copyright">
                                 BufferLab &copy; {{ date('Y')  }} 
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-sm-4">
                             <div class="copyright">
                                 BufferLab &copy; {{ date('Y')  }} 
                             </div>

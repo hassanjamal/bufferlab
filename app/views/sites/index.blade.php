@@ -19,11 +19,11 @@
     <div class="inner_content">
         <div class="pad30"></div>
         <!--info boxes-->
-        <div class="col-md-12">
+        <div class="col-sm-12">
             <div class="row">
                 <div class="row">
 
-                    <div class="col-md-4">
+                    <div class="col-sm-4">
                         <div class="tile">
                             <h3 class="tile-title">Solutions </h3>
                             <i class="fa fa-rocket fa-8x"></i>
@@ -35,7 +35,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-sm-4">
                         <div class="tile">
                             <h3 class="tile-title">Technology</h3>
                             <i class="fa fa-gears fa-8x"></i>
@@ -47,7 +47,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-sm-4">
                         <div class="tile">
                             <h3 class="tile-title">Low Cost</h3>
                             <i class="fa fa-inr fa-8x"></i>
@@ -76,12 +76,12 @@
     <div class="inner_content">
         <div class="pad30"></div>
         <!--info boxes-->
-        <div class="col-md-12">
+        <div class="col-sm-12">
             <div class="row">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-sm-4">
                         <div class="tile">
-                            <h3 class="tile-title">User Interface Design</h3>
+                            <h3 class="tile-title">User Interface </h3>
                             <i class="fa fa-magic fa-8x"></i>
                             <p>Building quality software isn't all about programming and technology. Great software
                             needs to look great, and needs to be dead simple to use. That's why we take design and
@@ -89,7 +89,7 @@
                             <a class="btn btn-2 btn-1b" href="#">read more..</a>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-sm-4">
                         <div class="tile">
                             <h3 class="tile-title">Quality Assurance</h3>
                             <i class="fa fa-check-square-o fa-8x"></i>
@@ -101,7 +101,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-sm-4">
                         <div class="tile">
                             <h3 class="tile-title">Digital Strategy</h3>
                             <i class="fa fa-bolt fa-8x"></i>
@@ -129,9 +129,9 @@
     <div class="inner_content">
         <div class="row">
             <!--col 1-->
-            <div class="col-md-12">
+            <div class="col-sm-12">
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-sm-12">
                         <h2 class="title">Recent Work</h2>
                         <hr>
                     </div>
@@ -139,7 +139,7 @@
                 <div class="row">
                     <div class="pad30 hidden-phone"></div>
 
-                    <div class="col-md-4">
+                    <div class="col-sm-4">
                         <h4>Our customers loves us because their customers loves them.Take a look at some of the
                             projects we've been working on recently.</h4>
 
@@ -149,7 +149,7 @@
                     </div>
 
                     <!--column 2 circle slider-->
-                    <div class="col-md-8 pad25">
+                    <div class="col-sm-8 pad25">
                         <!--circle slider-->
                         <div class="content_slider_wrapper" id="slider1"></div>
                         <div class="pad45"></div>

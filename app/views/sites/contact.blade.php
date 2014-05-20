@@ -1,10 +1,9 @@
 @extends('sites.layouts.master')
 
-@section('meta_description', 'index page')
-@section('meta_content', 'index page content')
+@section('meta_description', 'contact  page')
+@section('meta_content', 'contact  page content')
 @section('stylesheet')
 {{ HTML::style('/css/bootstrapValidator.min.css') }}
-<!--  more stylesheet to be added here -->
 @stop
 @section('body_content')
 <div class="container">
@@ -14,7 +13,7 @@
             <h2>Please contact us to get a free quote via the contact form or by sending us an email. 
                 We will gladly answer all of your questions in regards to web development.You can even call us !!</h2>
         </blockquote>
-        <div class="col-md-8" id="contact_form">
+        <div class="col-sm-8" id="contact_form">
             <!-- form start here -->
             <form id="ajax-contact-form" role="form" method="post" action="" autocomplete="off" >
                 <div class="form-group">
@@ -39,7 +38,7 @@
             </form>
             <!-- form ends here -->
         </div>
-        <div class="col-md-4">
+        <div class="col-sm-4">
             <h3 class="colour"><i class="fa fa-map-marker"></i><span style="margin-left:20px;">Visit Us</span></h3>
             <p>
             Dumrao Palace <br>
