@@ -2,7 +2,9 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>BufferLab</title>
+        <title>BufferLab
+            @yield('title')
+        </title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="@yield('meta_description')">
         <meta name="author" content="@yield('meta_content')">
@@ -14,7 +16,7 @@
         <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
         <!-- stylesheets -->
         {{ HTML::style('/css/bootstrap.min.css') }}
-        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" rel="stylesheet">
         {{ HTML::style('/css/theme.css') }}
         {{ HTML::style('/css/prettyPhoto.css') }}
         {{ HTML::style('/css/zocial.css') }}

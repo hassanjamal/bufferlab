@@ -29,8 +29,8 @@
                             <i class="fa fa-rocket fa-8x"></i>
 
                             <p>Our clients come to us with problems, and we use the best and latest mobile and web
-                            technology to solve those problems for them.Whether it is static website or data driven
-                            web apps , We deliver best for them. </p>
+                                technology to solve those problems for them.Whether it is static website or data driven
+                                web apps , We deliver best for them. </p>
                             <a class="btn btn-2 btn-1b" href="#">read more..</a>
                         </div>
                     </div>
@@ -41,8 +41,8 @@
                             <i class="fa fa-gears fa-8x"></i>
 
                             <p>Coding great software you need to have great tools and we are simply good for that. We
-                            are too good with Laravel (PHP framework), AngularJs, HTML5 , Ruby on Rails, Responsive
-                            Web Design and more. </p>
+                                are too good with Laravel (PHP framework), AngularJs, HTML5 , Ruby on Rails, Responsive
+                                Web Design and more. </p>
                             <a class="btn btn-2 btn-1b" href="">read more</a>
                         </div>
                     </div>
@@ -53,8 +53,8 @@
                             <i class="fa fa-inr fa-8x"></i>
 
                             <p>We provide high quality, yet low cost web development and design services.Our development
-                            process conserves your budget, focussing your investment to quickly and safely bring
-                            your product to market.</p>
+                                process conserves your budget, focussing your investment to quickly and safely bring
+                                your product to market.</p>
                             <a class="btn btn-2 btn-1b" href="#">read more..</a>
                         </div>
                     </div>
@@ -83,9 +83,10 @@
                         <div class="tile">
                             <h3 class="tile-title">User Interface </h3>
                             <i class="fa fa-magic fa-8x"></i>
+
                             <p>Building quality software isn't all about programming and technology. Great software
-                            needs to look great, and needs to be dead simple to use. That's why we take design and
-                            user experience very seriously.</p>
+                                needs to look great, and needs to be dead simple to use. That's why we take design and
+                                user experience very seriously.</p>
                             <a class="btn btn-2 btn-1b" href="#">read more..</a>
                         </div>
                     </div>
@@ -95,8 +96,8 @@
                             <i class="fa fa-check-square-o fa-8x"></i>
 
                             <p>Two principles included in Quality Assurance are: "Fit for purpose", the product should
-                            be suitable for the intended purpose; and "Right first time", mistakes should be
-                            eliminated. After All Quality matters a lot.</p>
+                                be suitable for the intended purpose; and "Right first time", mistakes should be
+                                eliminated. After All Quality matters a lot.</p>
                             <a class="btn btn-2 btn-1b" href="">read more..</a>
                         </div>
                     </div>
@@ -107,8 +108,8 @@
                             <i class="fa fa-bolt fa-8x"></i>
 
                             <p>Web or Mobile? Native or HTML5? Our experience in the web and mobile space can help you
-                            determine where to move in the digital space.We help you to indetify the unmet needs and
-                            goals of the customers.</p>
+                                determine where to move in the digital space.We help you to indetify the unmet needs and
+                                goals of the customers.</p>
                             <a class="btn btn-2 btn-1b" href="">read more..</a>
                         </div>
                     </div>
@@ -120,7 +121,7 @@
     </div>
 </div>
 <div class="banner" id="banner-2">
-    <div class="welcome_index" >We started in year 2007 working for <span
+    <div class="welcome_index">We started in year 2007 working for <span
             class="colour normal">accenture</span> and now working as <span
             class="hue_block white normal">BufferLab</span>..
     </div>
@@ -175,102 +176,102 @@
 {{ HTML::script('/js/jquery.revolution.js') }}
 {{ HTML::script('/js/jquery.revolution.plugin.js') }}
 <script type="text/javascript">
-var revapi;
-var newHeight;
-$(document).ready(sizeContent);
-$(window).resize(sizeContent);
-function sizeContent() {
-    newHeight = $(window).height() - $("#main_header").height();
-}
-jQuery(document).ready(function () {
+    var revapi;
+    var newHeight;
+    $(document).ready(sizeContent);
+    $(window).resize(sizeContent);
+    function sizeContent() {
+        newHeight = $(window).height() - $("#main_header").height();
+    }
+    jQuery(document).ready(function () {
 
         revapi = jQuery('.fullwidthbanner').revolution(
             {
-delay: 10000,
-startwidth: 1170,
-startheight: newHeight,
-hideThumbs: 10,
+                delay: 10000,
+                startwidth: 1170,
+                startheight: newHeight,
+                hideThumbs: 10,
 
-thumbWidth: 100,
-thumbHeight: 50,
-thumbAmount: 5,
+                thumbWidth: 100,
+                thumbHeight: 50,
+                thumbAmount: 5,
 
-navigationType: "both",
-navigationArrows: "solo",
-navigationStyle: "round",
+                navigationType: "both",
+                navigationArrows: "solo",
+                navigationStyle: "round",
 
-touchenabled: "on",
-onHoverStop: "on",
+                touchenabled: "on",
+                onHoverStop: "on",
 
-navigationHAlign: "center",
-navigationVAlign: "bottom",
-navigationHOffset: 0,
-navigationVOffset: 0,
+                navigationHAlign: "center",
+                navigationVAlign: "bottom",
+                navigationHOffset: 0,
+                navigationVOffset: 0,
 
-soloArrowLeftHalign: "left",
-soloArrowLeftValign: "center",
-soloArrowLeftHOffset: 20,
-soloArrowLeftVOffset: 0,
+                soloArrowLeftHalign: "left",
+                soloArrowLeftValign: "center",
+                soloArrowLeftHOffset: 20,
+                soloArrowLeftVOffset: 0,
 
-soloArrowRightHalign: "right",
-soloArrowRightValign: "center",
-soloArrowRightHOffset: 20,
-soloArrowRightVOffset: 0,
+                soloArrowRightHalign: "right",
+                soloArrowRightValign: "center",
+                soloArrowRightHOffset: 20,
+                soloArrowRightVOffset: 0,
 
-shadow: 0,
-fullWidth: "on",
-fullScreen: "off",
+                shadow: 0,
+                fullWidth: "on",
+                fullScreen: "off",
 
-stopLoop: "off",
-stopAfterLoops: -1,
-stopAtSlide: -1,
+                stopLoop: "off",
+                stopAfterLoops: -1,
+                stopAtSlide: -1,
 
-shuffle: "off",
+                shuffle: "off",
 
-autoHeight: "off",
-forceFullWidth: "on",
+                autoHeight: "off",
+                forceFullWidth: "on",
 
-hideThumbsOnMobile: "off",
-hideBulletsOnMobile: "on",
-hideArrowsOnMobile: "on",
-hideThumbsUnderResolution: 0,
+                hideThumbsOnMobile: "off",
+                hideBulletsOnMobile: "on",
+                hideArrowsOnMobile: "on",
+                hideThumbsUnderResolution: 0,
 
-hideSliderAtLimit: 0,
-hideCaptionAtLimit: 768,
-hideAllCaptionAtLilmit: 0,
-startWithSlide: 0,
-videoJsPath: "plugins/revslider/rs-plugin/videojs/",
-fullScreenOffsetContainer: ""
+                hideSliderAtLimit: 0,
+                hideCaptionAtLimit: 768,
+                hideAllCaptionAtLilmit: 0,
+                startWithSlide: 0,
+                videoJsPath: "plugins/revslider/rs-plugin/videojs/",
+                fullScreenOffsetContainer: ""
             });
 
-});	//ready
+    });	//ready
 
 </script>
 <script type="text/javascript">
-(function ($) {
- $(document).ready(function () {
-     var image_array = new Array();
-     image_array = [
-     {image: 'img/home_content_slider/halfrate.png', link_url: '', link_rel: 'prettyPhoto'},
-     {image: 'img/home_content_slider/companykart.png', link_url: '', link_rel: 'prettyPhoto'},
-     {image: 'img/home_content_slider/bluecrystal.png', link_url: '', link_rel: 'prettyPhoto'},
-     ];
-     $('#slider1').content_slider({
-map: image_array,
-max_shown_items: 4,  // number of visible circles
-automatic_height_resize: 1,
-wrapper_text_max_height: 300,
-active_item: 0,
-border_on_off: 0,
-allow_shadow: 1,
-enable_mousewheel: 0
-});
-     $("a[rel^='prettyPhoto']").prettyPhoto();
-     jQuery("a[rel^='prettyPhoto'], a[rel^='lightbox']").prettyPhoto({
-overlay_gallery: false, social_tools: false, deeplinking: false
-});
-});
-})(jQuery);
+    (function ($) {
+        $(document).ready(function () {
+            var image_array = new Array();
+            image_array = [
+                {image: 'img/home_content_slider/halfrate.png', link_url: '', link_rel: 'prettyPhoto'},
+                {image: 'img/home_content_slider/companykart.png', link_url: '', link_rel: 'prettyPhoto'},
+                {image: 'img/home_content_slider/bluecrystal.png', link_url: '', link_rel: 'prettyPhoto'},
+            ];
+            $('#slider1').content_slider({
+                map: image_array,
+                max_shown_items: 4,  // number of visible circles
+                automatic_height_resize: 1,
+                wrapper_text_max_height: 300,
+                active_item: 0,
+                border_on_off: 0,
+                allow_shadow: 1,
+                enable_mousewheel: 0
+            });
+            $("a[rel^='prettyPhoto']").prettyPhoto();
+            jQuery("a[rel^='prettyPhoto'], a[rel^='lightbox']").prettyPhoto({
+                overlay_gallery: false, social_tools: false, deeplinking: false
+            });
+        });
+    })(jQuery);
 </script>
 
 @stop
