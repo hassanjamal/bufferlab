@@ -22,9 +22,10 @@
                 <div class="tile">
                     <h3 class="tile-title">Digital Strategy</h3>
 
-                    <div class="animate bounceInLeft">
-                        <i class="fa fa-building-o  fa-8x"></i>
-                    </div>
+                    <img src="/images/compose.png">
+                    <!-- <div class="animate bounceInLeft icon&#45;circle"> -->
+                    <!--     <i class="fa fa&#45;building&#45;o  fa&#45;8x"></i> -->
+                    <!-- </div> -->
                     <p>Web or Mobile? Native or HTML5? Our experience in the web and mobile space can help you determine
                         where to move in the digital space.We help you to indetify the unmet needs and goals of the
                         customers.</p>
@@ -35,9 +36,10 @@
                 <div class="tile">
                     <h3 class="tile-title">Product Development</h3>
 
-                    <div class="animate bounceInLeft">
-                        <i class="fa fa-sliders fa-8x"></i>
-                    </div>
+                    <img src="/images/rocket.png">
+                    <!-- <div class="animate bounceInLeft icon&#45;circle"> -->
+                    <!--     <i class="fa fa&#45;sliders fa&#45;8x"></i> -->
+                    <!-- </div> -->
                     <p>Taking into consideration your business requirements and objectives, we can help you develop your
                         product - so you can focus on developing your business.</p>
                 </div>
