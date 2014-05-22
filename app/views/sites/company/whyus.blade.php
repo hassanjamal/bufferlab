@@ -20,9 +20,11 @@
                 <div class="col-md-4">
                     <div class="tile">
                         <h3 class="tile-title">Custom Website Design</h3>
-                        <div class="animate bounceInLeft">
-                            <i class="fa fa-dashboard fa-8x"></i>
-                        </div>
+
+                        <img src="/images/art.png">
+                        <!-- <div class="animate bounceInLeft"> -->
+                        <!--     <i class="fa fa&#45;dashboard fa&#45;8x"></i> -->
+                        <!-- </div> -->
                         <p>To get the most out of your website, its design must match your business branding and needs.
                             This is why all of our websites are designed from scratch.</p>
                     </div>
@@ -31,9 +33,10 @@
                 <div class="col-md-4">
                     <div class="tile">
                         <h3 class="tile-title">Affordable Web Design</h3>
-                        <div class="animate bounceInLeft">
-                            <i class="fa fa-rupee fa-8x"></i>
-                        </div>
+                        <img src="/images/lowcost.png">
+                        <!-- <div class="animate bounceInLeft"> -->
+                        <!--     <i class="fa fa&#45;rupee fa&#45;8x"></i> -->
+                        <!-- </div> -->
                         <p>We provide high quality, yet low cost web development and design services.Our development
                             process conserves your budget, focussing your investment to quickly and safely bring
                             your product to market.</p>
@@ -43,9 +46,10 @@
                 <div class="col-md-4">
                     <div class="tile">
                         <h3 class="tile-title">Management <br>Process</h3>
-                        <div class="animate bounceInLeft">
-                            <i class="fa fa-group fa-8x"></i>
-                        </div>
+                        <img src="/images/management.png">
+                        <!-- <div class="animate bounceInLeft"> -->
+                        <!--     <i class="fa fa&#45;group fa&#45;8x"></i> -->
+                        <!-- </div> -->
                         <p>We work closely with a given specification. If you do not have one, we will create one for you to be approved and signed off.We use proven management methodologies to keep projects on time.</p>
                     </div>
                 </div>
@@ -75,9 +79,10 @@
                 <div class="col-md-4">
                     <div class="tile">
                         <h3 class="tile-title">Quality <br> Assurance</h3>
-                        <div class="animate bounceInLeft">
-                            <i class="fa fa-check-square-o fa-8x"></i>
-                        </div>
+                        <img src="/images/check.png">
+                        <!-- <div class="animate bounceInLeft"> -->
+                        <!--     <i class="fa fa&#45;check&#45;square&#45;o fa&#45;8x"></i> -->
+                        <!-- </div> -->
                         <p>Two principles included in Quality Assurance are: "Fit for purpose", the product should be suitable for the intended purpose; and "Right first time", mistakes should be eliminated. After All Quality matters a lot.</p>
                     </div>
                 </div>
@@ -85,9 +90,10 @@
                 <div class="col-md-4">
                     <div class="tile">
                         <h3 class="tile-title">Security and Confidentiality</h3>
-                        <div class="animate bounceInLeft">
-                            <i class="fa fa-lock fa-8x"></i>
-                        </div>
+                        <img src="/images/locked.png">
+                        <!-- <div class="animate bounceInLeft"> -->
+                        <!--     <i class="fa fa&#45;lock fa&#45;8x"></i> -->
+                        <!-- </div> -->
                         <p>Precise approach for customers confidential info protection.We are too serious for data privacy.</p>
                     </div>
                 </div>
@@ -95,9 +101,10 @@
                 <div class="col-md-4">
                     <div class="tile">
                         <h3 class="tile-title">World Class Technical Talent</h3>
-                        <div class="animate bounceInLeft">
-                            <i class="fa fa-group fa-8x"></i>
-                        </div>
+                        <img src="/images/team.png">
+                        <!-- <div class="animate bounceInLeft"> -->
+                        <!--     <i class="fa fa&#45;group fa&#45;8x"></i> -->
+                        <!-- </div> -->
                         <p>Our talent pool of highly skilled software resources are simply unrivalled. We provide the technical skill, accountability and industry knowledge needed to deliver custom applications on time and on budget.</p>
                     </div>
                 </div>

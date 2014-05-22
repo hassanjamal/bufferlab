@@ -26,7 +26,8 @@
                     <div class="col-sm-4">
                         <div class="tile">
                             <h3 class="tile-title">Solutions </h3>
-                            <i class="fa fa-rocket fa-8x"></i>
+                            <!-- <i class="fa fa&#45;rocket fa&#45;8x"></i> -->
+                            <img src="/images/rocket.png">
 
                             <p>Our clients come to us with problems, and we use the best and latest mobile and web
                                 technology to solve those problems for them.Whether it is static website or data driven
@@ -38,7 +39,8 @@
                     <div class="col-sm-4">
                         <div class="tile">
                             <h3 class="tile-title">Technology</h3>
-                            <i class="fa fa-gears fa-8x"></i>
+                            <!-- <i class="fa fa&#45;gears fa&#45;8x"></i> -->
+                            <img src="/images/merge.png">
 
                             <p>Coding great software you need to have great tools and we are simply good for that. We
                                 are too good with Laravel (PHP framework), AngularJs, HTML5 , Ruby on Rails, Responsive
@@ -50,7 +52,8 @@
                     <div class="col-sm-4">
                         <div class="tile">
                             <h3 class="tile-title">Low Cost</h3>
-                            <i class="fa fa-inr fa-8x"></i>
+                            <img src="/images/lowcost.png">
+                            <!-- <i class="fa fa&#45;inr fa&#45;8x"></i> -->
 
                             <p>We provide high quality, yet low cost web development and design services.Our development
                                 process conserves your budget, focussing your investment to quickly and safely bring
@@ -82,7 +85,8 @@
                     <div class="col-sm-4">
                         <div class="tile">
                             <h3 class="tile-title">User Interface </h3>
-                            <i class="fa fa-magic fa-8x"></i>
+                            <img src="/images/magicwand.png">
+                            <!-- <i class="fa fa&#45;magic fa&#45;8x"></i> -->
 
                             <p>Building quality software isn't all about programming and technology. Great software
                                 needs to look great, and needs to be dead simple to use. That's why we take design and
@@ -93,7 +97,8 @@
                     <div class="col-sm-4">
                         <div class="tile">
                             <h3 class="tile-title">Quality Assurance</h3>
-                            <i class="fa fa-check-square-o fa-8x"></i>
+                            <!-- <i class="fa fa&#45;check&#45;square&#45;o fa&#45;8x"></i> -->
+                            <img src="/images/check.png">
 
                             <p>Two principles included in Quality Assurance are: "Fit for purpose", the product should
                                 be suitable for the intended purpose; and "Right first time", mistakes should be
@@ -105,7 +110,8 @@
                     <div class="col-sm-4">
                         <div class="tile">
                             <h3 class="tile-title">Digital Strategy</h3>
-                            <i class="fa fa-bolt fa-8x"></i>
+                            <img src="/images/compose.png">
+                            <!-- <i class="fa fa&#45;bolt fa&#45;8x"></i> -->
 
                             <p>Web or Mobile? Native or HTML5? Our experience in the web and mobile space can help you
                                 determine where to move in the digital space.We help you to indetify the unmet needs and

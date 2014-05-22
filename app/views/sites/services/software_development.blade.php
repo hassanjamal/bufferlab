@@ -20,9 +20,10 @@
                 <div class="tile">
                     <h3 class="tile-title">Laravel Development</h3>
 
-                    <div class="animate bounceInLeft">
-                        <i class="fa fa-building-o  fa-8x"></i>
-                    </div>
+                    <img src="/images/php.png">
+                    <!-- <div class="animate bounceInLeft"> -->
+                    <!--     <i class="fa fa&#45;building&#45;o  fa&#45;8x"></i> -->
+                    <!-- </div> -->
                     <p>We know the ins and outs of Laravel since we've been working with it right from beginning. The elegant design and opinionated nature of Laravel made it our preferred weapon of choice for server side development.</p>
                 </div>
             </div>
@@ -31,9 +32,10 @@
                 <div class="tile">
                     <h3 class="tile-title">JavaScript Development</h3>
 
-                    <div class="animate bounceInLeft">
-                        <i class="fa fa-sliders fa-8x"></i>
-                    </div>
+                    <img src="/images/js.png">
+                    <!-- <div class="animate bounceInLeft"> -->
+                    <!--     <i class="fa fa&#45;sliders fa&#45;8x"></i> -->
+                    <!-- </div> -->
                     <p>With the rise of HTML5 related technologies, Javascript has become one of the most important programming languages today. We work with jQuery, Angular, Node.js and a variety of other Javascript technologies.</p>
                 </div>
             </div>
@@ -43,9 +45,10 @@
                 <div class="tile">
                     <h3 class="tile-title">Ruby on Rails Development</h3>
 
-                    <div class="animate bounceInLeft">
-                        <i class="fa fa-building-o  fa-8x"></i>
-                    </div>
+                    <img src="/images/train.png">
+                    <!-- <div class="animate bounceInLeft"> -->
+                    <!--     <i class="fa fa&#45;building&#45;o  fa&#45;8x"></i> -->
+                    <!-- </div> -->
                     <p>Like Laravel We are Rails expert since we've been working with it for more than 3 years. The elegant design and opinionated nature of Rails made it our another preferred weapon of choice for server side development.</p>
                 </div>
             </div>
@@ -54,9 +57,10 @@
                 <div class="tile">
                     <h3 class="tile-title">Android Development</h3>
 
-                    <div class="animate bounceInLeft">
-                        <i class="fa fa-android fa-8x"></i>
-                    </div>
+                    <img src="/images/android.png">
+                    <!-- <div class="animate bounceInLeft"> -->
+                    <!--     <i class="fa fa&#45;android fa&#45;8x"></i> -->
+                    <!-- </div> -->
                     <p>Life seems incomplete these day with out an Android Smartphone. Billions of smartphones with millions of applications. A Driving force for Market today. If you need Android applications for mobile or tablet - we can build them. </p>
                 </div>
             </div>
