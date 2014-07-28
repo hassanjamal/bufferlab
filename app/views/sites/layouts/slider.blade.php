@@ -196,7 +196,7 @@
 <!-- SLIDE  -->
 <li data-transition="slideleft" data-slotamount="7" data-masterspeed="1000">
     <!-- main image -->
-    <img src="images/transparent.png" style='background-color:#f7e8f2' alt="" data-bgfit="cover"
+    <img src="/img/main_slider/transparent.png" style='background-color:#f7e8f2' alt="" data-bgfit="cover"
          data-bgposition="left top" data-bgrepeat="no-repeat">
     <!-- layers -->
 
@@ -356,7 +356,7 @@
 
 <li data-transition="slideleft" data-slotamount="7" data-masterspeed="1000">
     <!-- main image -->
-    <img src="images/transparent.png" style='background-color:#8ac4ec' alt="" data-bgfit="cover"
+    <img src="/img/main_slider/transparent.png" style='background-color:#8ac4ec' alt="" data-bgfit="cover"
          data-bgposition="left top" data-bgrepeat="no-repeat">
     <!-- layers -->
 
